@@ -1,7 +1,7 @@
 # Site settings
 title: BY Blog
 SEOTitle: 哈哈宝的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-cook.jpg
 email: txenergy@163.com
 description: "Life is hahaha wuwuwu"
 keyword: "BY, BY Blog, 哈哈宝的博客, ohcomeyes, 哈哈宝, java"
@@ -11,17 +11,17 @@ github_repo: "https://github.com/ohcomeyes/ohcomeyes.github.io" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "It is not the mountain we conquer but ourselves."
+sidebar-avatar: /img/about-BY-tx.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     哈哈宝
+zhihu_username:     tangxu
 github_username:    ohcomeyes
-juejin_username:   ohcomeyes
+#juejin_username:   ohcomeyes
 #twitter_username:   qiubaiying
 
 
