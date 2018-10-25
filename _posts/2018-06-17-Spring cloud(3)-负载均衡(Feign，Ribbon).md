@@ -4,7 +4,7 @@ title:      Spring cloud(3)-负载均衡(Feign，Ribbon)
 subtitle:   spring cloud学习
 date:       2018-06-17
 author:     ohcomeyes
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-alibaba.jpg
 catalog: true
 tags:
     - Java
