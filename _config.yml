@@ -61,8 +61,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 9d276ea54709afe78e4a                            #生成的clientID
-  clientSecret: c7f83217c4cd9eec8fb4526419f1d2f360211975    #生成的clientSecret
+  clientID: a038bc9bc7293b7b26e5                            #生成的clientID
+  clientSecret: 1758c7a92088e9eeecee5b092bba9d568deaea55    #生成的clientSecret
   repo: ohcomeyes.github.io    #仓库名称
   owner: ohcomeyes    #github用户名
   admin: ohcomeyes
